@@ -6,7 +6,7 @@ Kaggle.com is an excellent website for beginners in data science to practice EDA
 The DASH app is under development but the relevant plotly graphs for the Kaggle ML survey can be found here
 [DASH APP Notebook](http://nbviewer.jupyter.org/github/harisyammnv/Machine_learning_practice_kaggle/blob/166eee3068e3b3dd9cc27a53bdddeacb067430d8/kaggle_survey_analysis.ipynb)
 
-## Exemplary Dashboard 
+## Exemplary Dashboard (Work in Progress)
 ![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/dashboard_example.PNG)
 
 ## Exemplary Wordclouds
