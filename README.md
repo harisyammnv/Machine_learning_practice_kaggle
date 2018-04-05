@@ -8,6 +8,7 @@ The DASH app is under development but the relevant plotly graphs for the Kaggle 
 
 ## Exemplary Dashboard (Work in Progress)
 ![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/dashboard_example.PNG)
+![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/dashboard_example2.PNG)
 
 ## Exemplary Wordclouds
 ![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/NLP_word_clouds.png)
