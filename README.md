@@ -12,3 +12,9 @@ The DASH app is under development but the relevant plotly graphs for the Kaggle 
 
 ## Exemplary Wordclouds
 ![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/NLP_word_clouds.png)
+
+## Plotting Trajectories on Maps
+**Trajectory of the Trip**
+![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/trip_1.PNG)
+**Pick up and Drop offs Clustering**
+![alt text](https://github.com/harisyammnv/Machine_learning_practice_kaggle/blob/master/trip_clustering.PNG)
